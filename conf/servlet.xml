@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servlet>
+
+    <servlet-Mapping>
+        <para-key>/myweb/reg</para-key>
+        <para-value>com.webserver.servlet.RegServlet</para-value>
+        </servlet-Mapping>
+
+</servlet>
